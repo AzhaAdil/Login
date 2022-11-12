@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833285083105",
+    "project_id": "login-baa08",
+    "storage_bucket": "login-baa08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833285083105:android:d626f6829498dc52f68ca0",
+        "android_client_info": {
+          "package_name": "com.example.android.adil.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833285083105-mecnncspdaoqk3ddgbd2204lv3d2on0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMf_j0dLZeTIrbFThwRAHRzXQZ0wlqYmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833285083105-mecnncspdaoqk3ddgbd2204lv3d2on0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
